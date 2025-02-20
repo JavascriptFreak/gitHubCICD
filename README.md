@@ -1,5 +1,5 @@
 # gitHubCICD
-##github commands
+## github commands
 git init
 git config user.name="aishwarya"
 git clone <Repo><directory>
